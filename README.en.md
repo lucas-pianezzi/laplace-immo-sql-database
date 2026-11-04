@@ -46,7 +46,7 @@ Design choices:
 | A V-shaped half-year: April slump (first COVID lockdown), May–June rebound | –59% sales in April vs January; +3.7% from Q1 to Q2 | 7 |
 | The Paris region dominates apartment sales | 45% of sales (13,989 out of 31,362) | 1, 2 |
 | The market is driven by 2 and 3-room flats | 60% of sales; a m² in a 3-room flat is 12.4% cheaper than in a 2-room flat | 3, 10 |
-| Paris far above the rest of the country | €12,053/m², 2.5 times the dataset average | 4, 5 |
+| Paris far above the rest of the country | €12,053/m² 2.5 times the dataset average | 4, 5 |
 | Large apartments: widest regional gap | €8,770/m² in Île-de-France, 2.4 times the next region | 8 |
 
 **A critical look at the data**
