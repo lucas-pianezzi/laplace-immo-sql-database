@@ -46,7 +46,7 @@ Choix de conception :
 | Un semestre en V : creux en avril (1er confinement), rebond en mai-juin | –59 % de ventes en avril vs janvier ; +3,7 % du T1 au T2 | 7 |
 | L'Île-de-France concentre l'essentiel des ventes d'appartements | 45 % des ventes (13 989 sur 31 362) | 1, 2 |
 | Le marché se joue sur les T2 et T3 | 60 % des ventes ; le m² d'un T3 est 12,4 % moins cher que celui d'un T2 | 3, 10 |
-| Paris très au-dessus du reste du pays | 12 053 €/m², soit 2,5 fois la moyenne de l'échantillon | 4, 5 |
+| Paris très au-dessus du reste du pays | 12 053 €/m² soit 2,5 fois la moyenne de l'échantillon | 4, 5 |
 | Grands appartements : écart maximal entre régions | 8 770 €/m² en Île-de-France, 2,4 fois la région suivante | 8 |
 
 **Regard critique sur les données**
